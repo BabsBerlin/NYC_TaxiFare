@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/barbara/code/BabsBerlin/NYC_TaxiFare/mlruns/1/e78f71ba15434308a4f32c15b046997d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e78f71ba15434308a4f32c15b046997d
+run_uuid: e78f71ba15434308a4f32c15b046997d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629125536462
+status: 1
+tags: []
+user_id: unknown
